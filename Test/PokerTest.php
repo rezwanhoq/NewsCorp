@@ -36,6 +36,7 @@ class pokerTest extends TestCase {
     public function testNotStraight() {
 
         $cards = new poker();
+        
         $testCards[0] = array('2d', '10d', '4d', '5d', '6d');
         $testCards[1] = array('2d', '5h', '8d', '6h', '6d');
         $testCards[2] = array('2j', '2d', '2c', '2s', '10c');
