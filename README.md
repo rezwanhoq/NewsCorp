@@ -5,7 +5,7 @@ Technical Challenge 1
 
 - Poker.php - Two function definition for Task1 & Task2
 - PokerTest in the Test folder for the unit testing
-- index.php - to see the var_dump reuslt 
+- index.php - to see the var_dump result 
 
 
 Technical Challenge 2:
