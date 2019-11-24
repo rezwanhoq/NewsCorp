@@ -11,7 +11,7 @@ $settings = array(
 
 $url = 'https://api.twitter.com/1.1/search/tweets.json';
 $requestMethod = 'GET';
-$getfield = '?q=#KidspotSocial&result_type=recent';
+$getfield = '?q=#Kidspot&result_type=recent';
 
 // Perform the request
 $twitter = new TwitterAPIExchange($settings);
