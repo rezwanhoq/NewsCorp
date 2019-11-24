@@ -11,7 +11,7 @@ Technical Challenge 2:
 
 - Created a developer account in Twitter
 - Created an apps
-- Generate oauht access token & secret key
+- Generate oauth access token & secret key
 - Generate consumer key & secret
 - Include a wrapper TwitterAPIExchange.php
 - api.php to create an object of TwitterAPIExchange with details of the token and set "KidspotSocial" for lookup in Twitter recent results
