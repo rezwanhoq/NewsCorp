@@ -15,5 +15,5 @@ Technical Challenge 2:
 - Generate oauth access token & secret key
 - Generate consumer key & secret
 - Include a wrapper TwitterAPIExchange.php
-- api.php to create an object of TwitterAPIExchange with details of the token and set "KidspotSocial" for lookup in Twitter recent results
+- api.php to create an object of TwitterAPIExchange with details of the token and set "Kidspot" for lookup in Twitter recent results
 - Load api.php to see result
