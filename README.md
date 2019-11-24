@@ -16,4 +16,5 @@ Technical Challenge 2:
 - Generate consumer key & secret
 - Include a wrapper TwitterAPIExchange.php
 - api.php to create an object of TwitterAPIExchange with details of the token and set "Kidspot" for lookup in Twitter recent results
+- Different searches can be made from here: $getfield = '?q=#Kidspot&result_type=recent';
 - Load api.php to see result
