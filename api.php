@@ -1,7 +1,7 @@
 <?php
 require_once('TwitterAPIExchange.php');
 
-/** Set access tokens here - see: https://dev.twitter.com/apps/ **/
+// Set access tokens here 
 $settings = array(
     'oauth_access_token' => "1196620416250368000-9cLZplAXGWT89WX89JViD4gCKXyqim",
     'oauth_access_token_secret' => "bNRnzuuW75UvEIjlHEu3ezHQx5YvlJr3XCYq78moPVtnL",
@@ -11,7 +11,7 @@ $settings = array(
 
 $url = 'https://api.twitter.com/1.1/search/tweets.json';
 $requestMethod = 'GET';
-$getfield = '?q=#eugene&result_type=recent';
+$getfield = '?q=#KidspotSocial&result_type=recent';
 
 // Perform the request
 $twitter = new TwitterAPIExchange($settings);
