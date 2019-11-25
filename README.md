@@ -17,4 +17,5 @@ Technical Challenge 2:
 - Include a wrapper TwitterAPIExchange.php
 - api.php to create an object of TwitterAPIExchange with details of the token and set "Kidspot" for lookup in Twitter recent results
 - Different searches can be made from here: $getfield = '?q=#Kidspot&result_type=recent';
+- Tweet something with #Kidspot
 - Load api.php to see result
